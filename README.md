@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 I’m **Yons Said**, a **Computer Science senior at San Diego State University**, graduating **May 2026**.
 
